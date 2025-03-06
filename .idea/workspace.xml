@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5edecd1c-195e-43da-a596-c8e03c496b72" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Container-Placement-Plan/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Container-Placement-Plan/unload_allocate.py" afterDir="false" />
+    <list default="true" id="5edecd1c-195e-43da-a596-c8e03c496b72" name="更改" comment="版本1">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +24,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Container-Placement-Plan" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
 }]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2tvqebJfRuPEkfGSjn2Y3DVu1ej" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,7 +44,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.unload_allocate.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "E:/PycharmProjects/xiangmu",
     "node.js.detected.package.eslint": "true",
@@ -64,8 +73,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741242992176</updated>
-      <workItem from="1741242993322" duration="6165000" />
+      <workItem from="1741242993322" duration="6520000" />
+      <workItem from="1741266504508" duration="626000" />
     </task>
+    <task id="LOCAL-00001" summary="版本1">
+      <option name="closed" value="true" />
+      <created>1741257758476</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741257758476</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,5 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="版本1" />
+    <option name="LAST_COMMIT_MESSAGE" value="版本1" />
   </component>
 </project>
