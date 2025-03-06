@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5edecd1c-195e-43da-a596-c8e03c496b72" name="更改" comment="">
       <change afterPath="$PROJECT_DIR$/Container-Placement-Plan/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Container-Placement-Plan/unload_allocate.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +27,16 @@
   "associatedIndex": 0
 }]]></component>
   <component name="ProjectId" id="2tvqebJfRuPEkfGSjn2Y3DVu1ej" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "E:/PycharmProjects/xiangmu",
@@ -59,11 +64,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741242992176</updated>
-      <workItem from="1741242993322" duration="5396000" />
+      <workItem from="1741242993322" duration="5721000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
