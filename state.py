@@ -7,9 +7,9 @@ excel_file = 'excel2.xlsx'
 block_df = pd.read_excel(excel_file, sheet_name='blockAreas')
 plans_df = pd.read_excel(excel_file, sheet_name='plans')
 instructions_df = pd.read_excel(excel_file, sheet_name='instructions')
-qc1_df = pd.read_excel(excel_file, sheet_name='QC1')
-qc2_df = pd.read_excel(excel_file, sheet_name='QC2')
-qc3_df = pd.read_excel(excel_file, sheet_name='QC3')
+qc1_df = pd.read_excel(excel_file, sheet_name='qc1')
+qc2_df = pd.read_excel(excel_file, sheet_name='qc2')
+qc3_df = pd.read_excel(excel_file, sheet_name='qc3')
 type_df = pd.read_excel(excel_file, sheet_name='instructions')
 
 
@@ -29,15 +29,15 @@ type_df = replace_nan_with_none(type_df)
 # 构建 workQueues
 work_queues = [
     {
-        "qc": "QC1",
+        "qc": "qc1",
         "containers": qc1_df.to_dict(orient='records')
     },
     {
-        "qc": "QC2",
+        "qc": "qc2",
         "containers": qc2_df.to_dict(orient='records')
     },
     {
-        "qc": "QC3",
+        "qc": "qc3",
         "containers": qc3_df.to_dict(orient='records')
     }
 ]

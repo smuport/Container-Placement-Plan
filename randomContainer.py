@@ -1,31 +1,45 @@
-from classification import state  # 从 classification.py 文件中导入 State 类
 import random
-from typing import Dict, Any, Tuple, List
+import classification
 
+cumulative_time = {'qc1': 0, 'qc2': 0, 'qc3': 0}
 
-def getAllUnloadContainers(state: state) -> list[tuple[float, Any]]:
-    """
-    为所有集装箱生成随机卸载时间。
-    :param state: 全局 State 对象
-    :return: 包含所有集装箱及其卸载时间的列表，格式为 [(unload_time, container), ...]
-    """
-    all_containers = []
+def getNextUnloadContainer(qc_name):
+    # 在classification.work_queues中找到对应的岸桥
+    qc_data = next((item for item in classification.work_queues if item['qc'] == qc_name), None)
 
-    # 遍历所有岸桥的集装箱
-    for work_queue in state.work_queues:
-        for container in work_queue["containers"]:
-            unload_time = random.normalvariate(120, 3)
-            all_containers.append((round(unload_time, 2), container))  # 保留两位小数
+    if qc_data is None:
+        print(f"无效的岸桥名: {qc_name}")
+        return None
 
-    return all_containers
+    # 获取该岸桥的剩余集装箱列表
+    containers = qc_data['containers']
 
+    if not containers:
+        print(f"该岸桥 {qc_name} 已经没有需要作业的集装箱了。")
+        return None
 
-# 示例调用
-if __name__ == "__main__":
-    state = state()  # 创建 State 对象
-    try:
-        all_containers = getAllUnloadContainers(state)
-        for unload_time, container in all_containers:
-            print(f"卸载时间: {unload_time} 秒, 集装箱: {container}")
-    except ValueError as e:
-        print(e)
+    # 随机选择一个集装箱
+    selected_container = random.choice(containers)
+
+    # 生成作业时间：120 正负 3 的随机整数
+    operation_time = random.randint(117, 123)
+
+    # 更新累积作业时间
+    cumulative_time[qc_name] += operation_time
+
+    # 从列表中移除被选择的集装箱
+    containers.remove(selected_container)
+
+    # 输出结果
+    output = f"{cumulative_time[qc_name]}, {selected_container}"
+    print(output)
+
+    return output
+
+while True:
+    qc_name = input("请输入岸桥名（qc1/qc2/qc3）或输入 'exit' 退出: ").strip().lower()
+    if qc_name == 'exit':
+        break
+    result = getNextUnloadContainer(qc_name)
+    if result is None:
+        continue
