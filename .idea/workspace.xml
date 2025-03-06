@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5edecd1c-195e-43da-a596-c8e03c496b72" name="更改" comment="版本1">
+      <change afterPath="$PROJECT_DIR$/Container-Placement-Plan/ubload.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Container-Placement-Plan" beforeDir="false" afterPath="$PROJECT_DIR$/Container-Placement-Plan" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Container-Placement-Plan/unload_allocate.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +44,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.ubload.executor": "Run",
     "Python.unload_allocate.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -71,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741242992176</updated>
       <workItem from="1741242993322" duration="6520000" />
-      <workItem from="1741266504508" duration="1337000" />
+      <workItem from="1741266504508" duration="2313000" />
     </task>
     <task id="LOCAL-00001" summary="版本1">
       <option name="closed" value="true" />
@@ -94,5 +98,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/xiangmu$unload_allocate.coverage" NAME="unload_allocate 覆盖结果" MODIFIED="1741267119662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Container-Placement-Plan" />
+    <SUITE FILE_PATH="coverage/xiangmu$ubload.coverage" NAME="ubload 覆盖结果" MODIFIED="1741268112109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Container-Placement-Plan" />
   </component>
 </project>
