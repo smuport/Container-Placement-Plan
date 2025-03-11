@@ -1,0 +1,1056 @@
+{
+    "workQueues": [
+        {
+            "qc": "qc1",
+            "containers": [
+                {
+                    "id": 1,
+                    "group": "IF"
+                },
+                {
+                    "id": 2,
+                    "group": "IF"
+                },
+                {
+                    "id": 3,
+                    "group": "IF"
+                },
+                {
+                    "id": 4,
+                    "group": "IF"
+                },
+                {
+                    "id": 5,
+                    "group": "IF"
+                },
+                {
+                    "id": 6,
+                    "group": "IF"
+                },
+                {
+                    "id": 7,
+                    "group": "IF"
+                },
+                {
+                    "id": 8,
+                    "group": "IF"
+                },
+                {
+                    "id": 9,
+                    "group": "IF"
+                },
+                {
+                    "id": 10,
+                    "group": "IF"
+                },
+                {
+                    "id": 11,
+                    "group": "IF"
+                },
+                {
+                    "id": 12,
+                    "group": "IF"
+                },
+                {
+                    "id": 13,
+                    "group": "IF"
+                },
+                {
+                    "id": 14,
+                    "group": "IF"
+                },
+                {
+                    "id": 15,
+                    "group": "IF"
+                },
+                {
+                    "id": 16,
+                    "group": "IF"
+                },
+                {
+                    "id": 17,
+                    "group": "IF"
+                },
+                {
+                    "id": 18,
+                    "group": "IF"
+                },
+                {
+                    "id": 19,
+                    "group": "IF"
+                },
+                {
+                    "id": 20,
+                    "group": "IF"
+                },
+                {
+                    "id": 21,
+                    "group": "IF"
+                },
+                {
+                    "id": 22,
+                    "group": "IF"
+                },
+                {
+                    "id": 23,
+                    "group": "IF"
+                },
+                {
+                    "id": 24,
+                    "group": "IF"
+                },
+                {
+                    "id": 25,
+                    "group": "IF"
+                },
+                {
+                    "id": 26,
+                    "group": "IF"
+                },
+                {
+                    "id": 27,
+                    "group": "IF"
+                },
+                {
+                    "id": 28,
+                    "group": "IF"
+                },
+                {
+                    "id": 29,
+                    "group": "IF"
+                },
+                {
+                    "id": 30,
+                    "group": "IF"
+                },
+                {
+                    "id": 31,
+                    "group": "IF"
+                },
+                {
+                    "id": 32,
+                    "group": "IF"
+                },
+                {
+                    "id": 33,
+                    "group": "IF"
+                },
+                {
+                    "id": 34,
+                    "group": "IF"
+                },
+                {
+                    "id": 35,
+                    "group": "IF"
+                },
+                {
+                    "id": 36,
+                    "group": "IF"
+                },
+                {
+                    "id": 37,
+                    "group": "IF"
+                },
+                {
+                    "id": 38,
+                    "group": "IF"
+                },
+                {
+                    "id": 39,
+                    "group": "IF"
+                },
+                {
+                    "id": 40,
+                    "group": "IF"
+                },
+                {
+                    "id": 41,
+                    "group": "IF"
+                },
+                {
+                    "id": 42,
+                    "group": "IF"
+                },
+                {
+                    "id": 43,
+                    "group": "IF"
+                },
+                {
+                    "id": 44,
+                    "group": "IF"
+                },
+                {
+                    "id": 45,
+                    "group": "IF"
+                },
+                {
+                    "id": 46,
+                    "group": "IF"
+                },
+                {
+                    "id": 47,
+                    "group": "IF"
+                },
+                {
+                    "id": 48,
+                    "group": "IF"
+                },
+                {
+                    "id": 49,
+                    "group": "IF"
+                },
+                {
+                    "id": 50,
+                    "group": "IF"
+                },
+                {
+                    "id": 51,
+                    "group": "IF"
+                },
+                {
+                    "id": 52,
+                    "group": "IF"
+                },
+                {
+                    "id": 53,
+                    "group": "IF"
+                },
+                {
+                    "id": 54,
+                    "group": "IF"
+                },
+                {
+                    "id": 55,
+                    "group": "IF"
+                },
+                {
+                    "id": 56,
+                    "group": "IF"
+                },
+                {
+                    "id": 57,
+                    "group": "IF"
+                },
+                {
+                    "id": 58,
+                    "group": "IF"
+                },
+                {
+                    "id": 59,
+                    "group": "IF"
+                },
+                {
+                    "id": 60,
+                    "group": "IF"
+                },
+                {
+                    "id": 61,
+                    "group": "IF"
+                },
+                {
+                    "id": 62,
+                    "group": "IF"
+                },
+                {
+                    "id": 63,
+                    "group": "IF"
+                },
+                {
+                    "id": 64,
+                    "group": "IF"
+                },
+                {
+                    "id": 65,
+                    "group": "IF"
+                },
+                {
+                    "id": 66,
+                    "group": "IF"
+                },
+                {
+                    "id": 67,
+                    "group": "IF"
+                },
+                {
+                    "id": 68,
+                    "group": "IF"
+                },
+                {
+                    "id": 69,
+                    "group": "IZ"
+                },
+                {
+                    "id": 70,
+                    "group": "IZ"
+                },
+                {
+                    "id": 71,
+                    "group": "IZ"
+                },
+                {
+                    "id": 72,
+                    "group": "IZ"
+                },
+                {
+                    "id": 73,
+                    "group": "IZ"
+                },
+                {
+                    "id": 74,
+                    "group": "IZ"
+                },
+                {
+                    "id": 75,
+                    "group": "IZ"
+                },
+                {
+                    "id": 76,
+                    "group": "IZ"
+                },
+                {
+                    "id": 77,
+                    "group": "IZ"
+                },
+                {
+                    "id": 78,
+                    "group": "IZ"
+                },
+                {
+                    "id": 79,
+                    "group": "IZ"
+                },
+                {
+                    "id": 80,
+                    "group": "IZ"
+                },
+                {
+                    "id": 81,
+                    "group": "IZ"
+                },
+                {
+                    "id": 82,
+                    "group": "IZ"
+                },
+                {
+                    "id": 83,
+                    "group": "IZ"
+                },
+                {
+                    "id": 84,
+                    "group": "IZ"
+                },
+                {
+                    "id": 85,
+                    "group": "IZ"
+                },
+                {
+                    "id": 86,
+                    "group": "IZ"
+                },
+                {
+                    "id": 87,
+                    "group": "IZ"
+                },
+                {
+                    "id": 88,
+                    "group": "IZ"
+                },
+                {
+                    "id": 89,
+                    "group": "IZ"
+                }
+            ]
+        },
+        {
+            "qc": "qc2",
+            "containers": [
+                {
+                    "id": 90,
+                    "group": "IF"
+                },
+                {
+                    "id": 91,
+                    "group": "IF"
+                },
+                {
+                    "id": 92,
+                    "group": "IF"
+                },
+                {
+                    "id": 93,
+                    "group": "IF"
+                },
+                {
+                    "id": 94,
+                    "group": "IF"
+                },
+                {
+                    "id": 95,
+                    "group": "IF"
+                },
+                {
+                    "id": 96,
+                    "group": "IF"
+                },
+                {
+                    "id": 97,
+                    "group": "IF"
+                },
+                {
+                    "id": 98,
+                    "group": "IF"
+                },
+                {
+                    "id": 99,
+                    "group": "IF"
+                },
+                {
+                    "id": 100,
+                    "group": "IF"
+                },
+                {
+                    "id": 101,
+                    "group": "IF"
+                },
+                {
+                    "id": 102,
+                    "group": "IF"
+                },
+                {
+                    "id": 103,
+                    "group": "IF"
+                },
+                {
+                    "id": 104,
+                    "group": "IF"
+                },
+                {
+                    "id": 105,
+                    "group": "IF"
+                },
+                {
+                    "id": 106,
+                    "group": "IF"
+                },
+                {
+                    "id": 107,
+                    "group": "IF"
+                },
+                {
+                    "id": 108,
+                    "group": "IF"
+                },
+                {
+                    "id": 109,
+                    "group": "IF"
+                },
+                {
+                    "id": 110,
+                    "group": "IF"
+                },
+                {
+                    "id": 111,
+                    "group": "IF"
+                },
+                {
+                    "id": 112,
+                    "group": "IF"
+                },
+                {
+                    "id": 113,
+                    "group": "IF"
+                },
+                {
+                    "id": 114,
+                    "group": "IF"
+                },
+                {
+                    "id": 115,
+                    "group": "IF"
+                },
+                {
+                    "id": 116,
+                    "group": "IF"
+                },
+                {
+                    "id": 117,
+                    "group": "IF"
+                },
+                {
+                    "id": 118,
+                    "group": "IF"
+                },
+                {
+                    "id": 119,
+                    "group": "IF"
+                },
+                {
+                    "id": 120,
+                    "group": "IF"
+                },
+                {
+                    "id": 121,
+                    "group": "IF"
+                },
+                {
+                    "id": 122,
+                    "group": "IF"
+                },
+                {
+                    "id": 123,
+                    "group": "IF"
+                },
+                {
+                    "id": 124,
+                    "group": "IF"
+                },
+                {
+                    "id": 125,
+                    "group": "IF"
+                },
+                {
+                    "id": 126,
+                    "group": "IF"
+                },
+                {
+                    "id": 127,
+                    "group": "IF"
+                },
+                {
+                    "id": 128,
+                    "group": "IF"
+                }
+            ]
+        },
+        {
+            "qc": "qc3",
+            "containers": [
+                {
+                    "id": 129,
+                    "group": "IF"
+                },
+                {
+                    "id": 130,
+                    "group": "IF"
+                },
+                {
+                    "id": 131,
+                    "group": "IF"
+                },
+                {
+                    "id": 132,
+                    "group": "IF"
+                },
+                {
+                    "id": 133,
+                    "group": "IF"
+                },
+                {
+                    "id": 134,
+                    "group": "IF"
+                },
+                {
+                    "id": 135,
+                    "group": "IF"
+                },
+                {
+                    "id": 136,
+                    "group": "IF"
+                },
+                {
+                    "id": 137,
+                    "group": "IF"
+                },
+                {
+                    "id": 138,
+                    "group": "IF"
+                },
+                {
+                    "id": 139,
+                    "group": "IF"
+                },
+                {
+                    "id": 140,
+                    "group": "IF"
+                },
+                {
+                    "id": 141,
+                    "group": "IF"
+                },
+                {
+                    "id": 142,
+                    "group": "IF"
+                },
+                {
+                    "id": 143,
+                    "group": "IF"
+                },
+                {
+                    "id": 144,
+                    "group": "IF"
+                },
+                {
+                    "id": 145,
+                    "group": "IF"
+                },
+                {
+                    "id": 146,
+                    "group": "IF"
+                },
+                {
+                    "id": 147,
+                    "group": "IF"
+                },
+                {
+                    "id": 148,
+                    "group": "IF"
+                },
+                {
+                    "id": 149,
+                    "group": "IF"
+                },
+                {
+                    "id": 150,
+                    "group": "IF"
+                },
+                {
+                    "id": 151,
+                    "group": "IF"
+                },
+                {
+                    "id": 152,
+                    "group": "IF"
+                },
+                {
+                    "id": 153,
+                    "group": "IF"
+                },
+                {
+                    "id": 154,
+                    "group": "IF"
+                },
+                {
+                    "id": 155,
+                    "group": "IF"
+                },
+                {
+                    "id": 156,
+                    "group": "IF"
+                },
+                {
+                    "id": 157,
+                    "group": "IF"
+                },
+                {
+                    "id": 158,
+                    "group": "IF"
+                },
+                {
+                    "id": 159,
+                    "group": "IF"
+                },
+                {
+                    "id": 160,
+                    "group": "IF"
+                },
+                {
+                    "id": 161,
+                    "group": "IF"
+                },
+                {
+                    "id": 162,
+                    "group": "IF"
+                },
+                {
+                    "id": 163,
+                    "group": "IF"
+                },
+                {
+                    "id": 164,
+                    "group": "IF"
+                },
+                {
+                    "id": 165,
+                    "group": "IF"
+                },
+                {
+                    "id": 166,
+                    "group": "IF"
+                },
+                {
+                    "id": 167,
+                    "group": "IF"
+                },
+                {
+                    "id": 168,
+                    "group": "IF"
+                },
+                {
+                    "id": 169,
+                    "group": "IF"
+                },
+                {
+                    "id": 170,
+                    "group": "IF"
+                },
+                {
+                    "id": 171,
+                    "group": "IF"
+                },
+                {
+                    "id": 172,
+                    "group": "IF"
+                },
+                {
+                    "id": 173,
+                    "group": "IF"
+                },
+                {
+                    "id": 174,
+                    "group": "IZ"
+                },
+                {
+                    "id": 175,
+                    "group": "IZ"
+                },
+                {
+                    "id": 176,
+                    "group": "IZ"
+                },
+                {
+                    "id": 177,
+                    "group": "IZ"
+                },
+                {
+                    "id": 178,
+                    "group": "IZ"
+                },
+                {
+                    "id": 179,
+                    "group": "IZ"
+                },
+                {
+                    "id": 180,
+                    "group": "IZ"
+                },
+                {
+                    "id": 181,
+                    "group": "IZ"
+                },
+                {
+                    "id": 182,
+                    "group": "IZ"
+                },
+                {
+                    "id": 183,
+                    "group": "IZ"
+                },
+                {
+                    "id": 184,
+                    "group": "IZ"
+                },
+                {
+                    "id": 185,
+                    "group": "IZ"
+                },
+                {
+                    "id": 186,
+                    "group": "IZ"
+                },
+                {
+                    "id": 187,
+                    "group": "IZ"
+                },
+                {
+                    "id": 188,
+                    "group": "IZ"
+                },
+                {
+                    "id": 189,
+                    "group": "IZ"
+                },
+                {
+                    "id": 190,
+                    "group": "IZ"
+                },
+                {
+                    "id": 191,
+                    "group": "IZ"
+                },
+                {
+                    "id": 192,
+                    "group": "IZ"
+                },
+                {
+                    "id": 193,
+                    "group": "OZ"
+                },
+                {
+                    "id": 194,
+                    "group": "OZ"
+                },
+                {
+                    "id": 195,
+                    "group": "OZ"
+                },
+                {
+                    "id": 196,
+                    "group": "OZ"
+                },
+                {
+                    "id": 197,
+                    "group": "OZ"
+                },
+                {
+                    "id": 198,
+                    "group": "OZ"
+                },
+                {
+                    "id": 199,
+                    "group": "OZ"
+                },
+                {
+                    "id": 200,
+                    "group": "OZ"
+                },
+                {
+                    "id": 201,
+                    "group": "OZ"
+                },
+                {
+                    "id": 202,
+                    "group": "OZ"
+                },
+                {
+                    "id": 203,
+                    "group": "OZ"
+                },
+                {
+                    "id": 204,
+                    "group": "OZ"
+                },
+                {
+                    "id": 205,
+                    "group": "OZ"
+                },
+                {
+                    "id": 206,
+                    "group": "OZ"
+                },
+                {
+                    "id": 207,
+                    "group": "OZ"
+                }
+            ]
+        }
+    ],
+    "blockAreas": [
+        {
+            "block": "1A",
+            "area": 1,
+            "plans": [
+                {
+                    "group": "IF",
+                    "bay": "1A02",
+                    "capacity": 21
+                }
+            ],
+            "yc": {
+                "name": "YC1",
+                "location": 34
+            },
+            "instructions": [
+                {
+                    "type": "U",
+                    "status": NaN,
+                    "from": NaN,
+                    "to": NaN,
+                    "containerID": NaN
+                }
+            ]
+        },
+        {
+            "block": "1A",
+            "area": 2,
+            "plans": [
+                {
+                    "group": "IF",
+                    "bay": "1A30",
+                    "capacity": 21
+                }
+            ],
+            "yc": {
+                "name": "YC1",
+                "location": 34
+            },
+            "instructions": [
+                {
+                    "type": "U",
+                    "status": NaN,
+                    "from": NaN,
+                    "to": NaN,
+                    "containerID": NaN
+                }
+            ]
+        },
+        {
+            "block": "1B",
+            "area": 1,
+            "plans": [
+                {
+                    "group": "IF",
+                    "bay": "1B02",
+                    "capacity": 21
+                },
+                {
+                    "group": "IZ",
+                    "bay": "1B22",
+                    "capacity": 21
+                }
+            ],
+            "yc": {
+                "name": "YC2",
+                "location": 34
+            },
+            "instructions": [
+                {
+                    "type": "U",
+                    "status": NaN,
+                    "from": NaN,
+                    "to": NaN,
+                    "containerID": NaN
+                }
+            ]
+        },
+        {
+            "block": "1B",
+            "area": 2,
+            "plans": [
+                {
+                    "group": "IF",
+                    "bay": "1B30",
+                    "capacity": 21
+                }
+            ],
+            "yc": {
+                "name": "YC2",
+                "location": 34
+            },
+            "instructions": [
+                {
+                    "type": "U",
+                    "status": NaN,
+                    "from": NaN,
+                    "to": NaN,
+                    "containerID": NaN
+                }
+            ]
+        },
+        {
+            "block": "1C",
+            "area": 1,
+            "plans": [
+                {
+                    "group": "IF",
+                    "bay": "1C02",
+                    "capacity": 21
+                },
+                {
+                    "group": "OZ",
+                    "bay": "1C18",
+                    "capacity": 21
+                }
+            ],
+            "yc": {
+                "name": "YC3",
+                "location": 22
+            },
+            "instructions": [
+                {
+                    "type": "U",
+                    "status": NaN,
+                    "from": NaN,
+                    "to": NaN,
+                    "containerID": NaN
+                }
+            ]
+        },
+        {
+            "block": "1C",
+            "area": 2,
+            "plans": [
+                {
+                    "group": "IF",
+                    "bay": "1C30",
+                    "capacity": 21
+                }
+            ],
+            "yc": {
+                "name": "YC4",
+                "location": 34
+            },
+            "instructions": [
+                {
+                    "type": "U",
+                    "status": NaN,
+                    "from": NaN,
+                    "to": NaN,
+                    "containerID": NaN
+                }
+            ]
+        },
+        {
+            "block": "1D",
+            "area": 1,
+            "plans": [
+                {
+                    "group": "IF",
+                    "bay": "1D02",
+                    "capacity": 21
+                },
+                {
+                    "group": "IZ",
+                    "bay": "1D22",
+                    "capacity": 21
+                }
+            ],
+            "yc": {
+                "name": "YC5",
+                "location": 34
+            },
+            "instructions": [
+                {
+                    "type": "U",
+                    "status": NaN,
+                    "from": NaN,
+                    "to": NaN,
+                    "containerID": NaN
+                }
+            ]
+        },
+        {
+            "block": "1D",
+            "area": 2,
+            "plans": [
+                {
+                    "group": "IF",
+                    "bay": "1D30",
+                    "capacity": 21
+                }
+            ],
+            "yc": {
+                "name": "YC5",
+                "location": 34
+            },
+            "instructions": [
+                {
+                    "type": "U",
+                    "status": NaN,
+                    "from": NaN,
+                    "to": NaN,
+                    "containerID": NaN
+                }
+            ]
+        }
+    ]
+}
